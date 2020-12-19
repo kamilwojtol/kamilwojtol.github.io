@@ -1,6 +1,8 @@
-#Front-end portfolio
+# Front-end portfolio
 
-##Użyte technologie
+My personal portfolio
+
+## Użyte technologie
 
 - HTML
 - CSS
