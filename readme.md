@@ -2,7 +2,7 @@
 
 My personal portfolio
 
-## Użyte technologie
+## Technologies
 
 - HTML
 - CSS
